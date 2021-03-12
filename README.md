@@ -1,5 +1,1 @@
 # jenkins_integration
-test
-<>
-<>
-<>
